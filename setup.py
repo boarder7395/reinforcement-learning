@@ -4,6 +4,7 @@ requirements = [
     'keras==2.2.4',
     'tensorflow-gpu==1.10',
     'argparse==1.2.1',
+    'gym==0.13.1',
 ]
 
 setup(
