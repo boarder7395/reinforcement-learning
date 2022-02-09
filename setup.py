@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 requirements = [
     'keras==2.2.4',
-    'tensorflow-gpu==1.13.1',
+    'tensorflow-gpu==2.5.3',
     'argparse==1.2.1',
     'gym==0.13.1',
 ]
